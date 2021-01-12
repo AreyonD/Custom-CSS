@@ -1,0 +1,119 @@
+/* Logo*/
+#logo a {
+  display: none;
+}
+#header h1, #header h2{
+    display: block;
+    float : none;
+    margin : auto !important;
+    
+}
+/* Header*/
+#header {
+    background-image : url(https://i.ibb.co/vJ0QVC5/Drive-Nime.png);
+    border-left : 1px solid #222222;
+    border-right : 1px solid #222222;
+    height : 150px !important;
+    padding : 0;
+}
+.widget-header{
+    display : none;
+}
+.postauthor h5, .reply a, .current-menu-item a{
+    color : #EEEEEE;
+}
+body {
+    font-family : quicksand, quicksand !important;
+    background-image : url(https://i.ibb.co/BZpqWJp/Konachan-com-321071-autumn-brown-hair-building-fan-japanese-clothes-jinn-avalon-kimono-leaves-origin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color : #EEEEEE;
+}
+/* Navbar dan Footer*/
+.secondary-navigation {
+    border-bottom : 4px solid #F1AC72;
+}
+body > footer {
+    border-top : 4px solid #F1AC72;
+}
+/* Halaman Konten*/
+.main-container {
+    background : #383838;
+    opacity : 0.9;
+}
+#page {
+    border-left : 1px solid #222222;
+    border-right : 1px solid #222222;
+}
+.article img.aligncenter, .article img.alignnone{
+    border-radius : 5px;
+}
+.wp-post-navigation div{
+    display : none;
+}
+/* Strip Konten*/
+.post.excerpt header .title {
+    background : #383838;
+}
+/* Judul Deskripsi Konten*/
+.title {
+    color : #F1AC72;
+    border-radius : 5px;
+}
+.title a{
+    color : #EEEEEE;
+}
+h2, h3 {
+    color : #EEEEEE;
+}
+.post-content {
+    color : #EEEEEE;
+}
+.theauthor, .thetime {
+    color : #EEEEEE;
+}
+.related-post .post-list .item .post_title{
+    color : #EEEEEE;
+}
+.related-post .post-list .item .post_excerpt{
+    color : #EEEEEE;
+}
+/* Judul Genre*/
+.postsby {
+    color : #F1AC72;
+}
+/* Text Hover*/
+.related-posts a, .theauthor a, .single_post a, a:hover, .textwidget a, #commentform a, .copyrights a:hover, a, .sidebar.c-4-12 a:hover, footer .widget li a:hover {
+    color : #F1AC72;
+}
+.sidebar.c-4-12 a:hover {
+    border-color : #F1AC72;
+}
+/* Tombol Navigasi dll*/
+.top .toplink, .flex-direction-nav .flex-prev, .flex-direction-nav .flex-next, #search-image, .nav-previous a, .nav-next a, .mts-subscribe input[type="submit"], .sbutton, .currenttext, .pagination a:hover{
+    background-color : #F1AC72;
+}
+.currenttext, .pagination a:hover{
+    border-radius : 50%;
+    border : none !important;
+}
+/*  Search*/
+#search-image {
+    border : none !important;
+}
+#s {
+    border-radius : 20px;
+}
+/* Header 3*/
+.widget h3 {
+    color : #F1AC72;
+}
+/* Sidebar*/
+.sidebar.c-4-12 a {
+    color : #CCCCCC;
+}
+/* Gambar*/
+.wp-post-image {
+    border-radius : 5px;
+}

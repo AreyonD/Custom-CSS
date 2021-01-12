@@ -1,0 +1,55 @@
+html {
+    background-image : url(https://i.ibb.co/WD93wnB/Gdrive.png);
+}
+body{
+    font-family : quicksand, quicksand !important;
+    color : #EEEEEE;
+}
+#gb{
+    font-family : quicksand, quicksand !important;
+}
+#gbx3, #gbx4{
+    opacity : 0.7;
+}
+.uc-error-caption, .uc-warning-caption{
+    color : #EEEEEE;
+}
+.uc-main {
+    padding-top : 250px;
+    padding-left : 700px;
+}
+.drive-sprite-aux-download-file{
+    background-image : url(https://i.ibb.co/Tmd0byR/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width : 100px;
+    height : 100px;
+}
+.uc-name-size a{
+    color : #B8A4D7;
+}
+.uc-name-size a:visited{
+    color : #805683;
+}
+.jfk-button-action{
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    background-color: #B8A4D7 !important;
+    background-image: -webkit-linear-gradient(top,#B8A4D7,#B8A4D7) !important;
+    background-image: -moz-linear-gradient(top,#B8A4D7,#B8A4D7) !important;
+    background-image: -ms-linear-gradient(top,#B8A4D7,#B8A4D7) !important;
+    background-image: -o-linear-gradient(top,#B8A4D7,#B8A4D7) !important;
+    background-image: linear-gradient(top,#B8A4D7,#B8A4D7) !important;
+    border: none !important;
+    border-radius :5px;
+    color: #fff;
+    opacity : 0.7;
+}
+.uc-footer{
+    display : none;
+}
+.uc-footer-divider{
+    display : none;
+}
