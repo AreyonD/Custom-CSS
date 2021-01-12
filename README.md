@@ -1,2 +1,2 @@
 # Custom-CSS
-My custom css
+Just simple custom css
